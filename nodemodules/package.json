@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Catalizcs",
+  "author": "Yuuki",
   "license": "ISC",
   "dependencies": {
     "amlich": "0.0.2",
